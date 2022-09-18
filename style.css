@@ -1,0 +1,16 @@
+body{
+    background-color: orange;
+}
+p{
+    font-size: 30px;
+}
+button{
+    border-width:15px;
+    border-style:bold;
+    border-radius:20px
+}
+input{
+    color:red;
+    backgroud color:pink;
+    width:30px;
+}
