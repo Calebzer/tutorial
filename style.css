@@ -1,5 +1,5 @@
 body{
-    background-color: orange;
+    background-color: #896d39;
 }
 p{
     font-size: 30px;
@@ -10,7 +10,7 @@ button{
     border-radius:20px
 }
 input{
-    color:red;
-    backgroud color:pink;
+    color:#671f1f;
+    backgroud-color:rgb(90, 169, 47);
     width:30px;
 }
